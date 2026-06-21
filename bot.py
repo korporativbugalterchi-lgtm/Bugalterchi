@@ -11,7 +11,7 @@ from aiogram.types import (InlineKeyboardMarkup, InlineKeyboardButton,
 
 # ==================== SOZLAMALAR ====================
 BOT_TOKEN = "8326552518:AAGFiqzMTHwj-o65oUZ9UV_h63OgCXk0w6Q"
-ADMIN_ID = 5200608299
+ADMIN_ID = 422549832
 CHANNEL_LINK = "https://t.me/your_channel"
 CHANNEL_ID = -1001234567890
 
